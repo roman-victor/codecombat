@@ -151,9 +151,9 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     campaign_multiplayer: "Арены для мультиплеера"
     campaign_multiplayer_description: "... там вы соревнуетесь в программировании с другими игроками."
     brain_pop_done: "Вы победили огров с помощью кода! Вы выиграли!"
-#    brain_pop_challenge: "Challenge yourself to play again using a different programming language!"
-#    replay: "Replay"
-#    back_to_classroom: "Back to Classroom"
+    brain_pop_challenge: "Попробуй себя в игре используя другой язык программирования!"
+    replay: "Повторить"
+    back_to_classroom: "Вернуться в Класс"
 
   code:
     if: "если" # Keywords--these translations show up on hover, so please translate them all, even if it's kind of long. (In the code editor, they will still be in English.)
@@ -631,10 +631,10 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     purchase: "Купить"
     purchased: "Куплено"
 
-#  earn_gems:
-#    prompt_title: "Not Enough Gems"
-#    prompt_body: "Keep playing to earn more!"
-
+  earn_gems:
+    prompt_title: "Не достаточно самоцветов"
+    prompt_body: "Продолжай играть чтобы заработать больше!"
+    
   subscribe:
     subscribe_modal_title: "CodeCombat Премиум"
     comparison_blurb: "Стань мастером програмирования - подпишись на <b>Премиум</b> сегодня!"
